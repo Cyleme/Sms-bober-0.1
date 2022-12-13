@@ -1,9 +1,9 @@
 # токен бота
 token = "5156978591:AAEh2mjZRg86Ng2g18qRSyvKLtUB0Qy5XG8"
 # ID администратора
-admin_id = 5343573074
+admin_id = 470962315
 
-admin_username = "@ydtaxi"
+admin_username = "@cyleme"
 
 
 # лимит на вывод # @END_SOFT
