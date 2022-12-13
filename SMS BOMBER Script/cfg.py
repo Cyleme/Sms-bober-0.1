@@ -1,5 +1,5 @@
 # токен бота
-token = "1693336972:AAH8Hl41GeiCUJHzcuh5urmEKNkQobqHVo0"
+token = "tg token bot"
 # ID администратора
 admin_id = 470962315
 
