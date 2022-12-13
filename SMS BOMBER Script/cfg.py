@@ -1,5 +1,5 @@
 # токен бота
-token = "5156978591:AAEh2mjZRg86Ng2g18qRSyvKLtUB0Qy5XG8"
+token = "1693336972:AAH8Hl41GeiCUJHzcuh5urmEKNkQobqHVo0"
 # ID администратора
 admin_id = 470962315
 
